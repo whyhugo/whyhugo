@@ -1,6 +1,6 @@
 # WHY-Hugo
 
-😉editing...
+😶‍🌫️editing...
 
 <p>
     <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHY-Hugo&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
