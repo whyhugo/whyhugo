@@ -1,7 +1,6 @@
 # WHY-Hugo
 
-## 統計資訊
-（現在沒什麼東西，但是之後應該會嘗試寫一些專案）
+🫠editing...
 
 <p>
     <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHY-Hugo&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
