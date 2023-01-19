@@ -16,8 +16,9 @@
 
 
 
-[![GitHub - Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=buefy#gh-light-mode-only)]
-[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&card_width=500&theme=buefy#gh-light-mode-only)]
+[![GitHub - Language Stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=buefy#gh-light-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-light-mode-only) 
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&card_width=500&theme=buefy#gh-light-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-light-mode-only)
+---
 
 
 
@@ -27,9 +28,9 @@
 
 
 <p>
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
+    <img width="36%" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=buefy#gh-light-mode-only" alt="GitHub - Language Stats">
     &nbsp;&nbsp;
-    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=whyhugo&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
+    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&card_width=500&theme=buefy#gh-light-mode-only" alt="GitHub Stats">
 </p>
 
 
