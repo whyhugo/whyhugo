@@ -28,9 +28,9 @@
 
 
 <p>
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo" alt="GitHub - Language Stats">
+    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300" alt="GitHub - Language Stats">
     &nbsp;&nbsp;
-    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=whyhugo&" alt="GitHub Stats">
+    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&card_width=500" alt="GitHub Stats">
 </p>
 
 
