@@ -1,4 +1,4 @@
-# About me
+# 🍄About me
 
 我是WHY (Hugo Wang)，  
 目前就讀國立政大附中，  
