@@ -5,7 +5,7 @@
 一位專注於機器學習、NLP領域的特選生 (NTNU CSIE準大一生)，  
 熱愛分享、自學、發掘並解決問題！  
 
-My Blog: [WHY Garage](https://whyhugo.github.io)
+**My Blog: [WHY Garage](https://whyhugo.github.io)**
 
 
 [![GitHub - Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only) [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only)
@@ -15,6 +15,7 @@ My Blog: [WHY Garage](https://whyhugo.github.io)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whyhugo)](https://github.com/whyhugo/github-profile-trophy)
 
+![Visitor Count](https://profile-counter.glitch.me/whyhugo/count.svg)
 
 
 
