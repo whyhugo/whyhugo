@@ -18,6 +18,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whyhugo&theme=chartreuse-dark&column=4&margin-w=15&margin-h=15)](https://github.com/whyhugo/github-profile-trophy)
 
+
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=chartreuse-dark&column=4&margin-w=15&margin-h=15">
+</p>
+
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
 
 
