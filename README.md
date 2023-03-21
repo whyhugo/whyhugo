@@ -19,7 +19,7 @@
 
 <h4 align="center">Stats</h4>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=chartreuse-dark#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=gruvbox">
 </p>
 
 <h4 align="center">Languages</h4>
@@ -34,6 +34,10 @@
 
 <h4 align="center">Visitor Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
+
+<h4 align="center">Visitor Count</h4>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=whyhugo" alt="whyhugo :: Visitor's Count" /></p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=whyhugo)](https://git.io/streak-stats)
 
