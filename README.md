@@ -1,8 +1,6 @@
-# 🍄About me
-
-我是WHY (Hugo Wang)，  
-目前就讀國立政大附中，  
-一位專注於機器學習、NLP領域的特選生 (NTNU CSIE準大一生)，  
+# 🍄About Hugo Wang
+ 
+### 一位專注於機器學習、NLP領域的學生  
 熱愛分享、自學、發掘並解決問題！  
 
 **💡My Blog: [WHY Garage](https://whyhugo.github.io)**
@@ -24,7 +22,7 @@
 
 <h4 align="center">Languages</h4>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox">
 </p>
 
 <h4 align="center">Trophies</h4>
@@ -32,14 +30,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=gruvbox&column=4&margin-w=15&margin-h=15">
 </p>
 
+<h4 align="center">Streak Stats</h4>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=whyhugo&theme=gruvbox" alt="whyhugo :: Streak Stats" /></p>
+
 <h4 align="center">Visitor Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
 
-<h4 align="center">Visitor Count</h4>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=whyhugo" alt="whyhugo :: Visitor's Count" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=whyhugo)](https://git.io/streak-stats)
 
 
 
