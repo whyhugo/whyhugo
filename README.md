@@ -15,6 +15,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whyhugo&theme=chartreuse-dark&column=4&margin-w=15&margin-h=15)](https://github.com/whyhugo/github-profile-trophy)-->
+<h2 align="center"> Github Stats </h1>
 
 <h4 align="center">Stats</h4>
 <p align="center"> 
@@ -23,18 +24,18 @@
 
 <h4 align="center">Languages</h4>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=chartreuse-dark#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=blue-green#gh-dark-mode-only">
 </p>
 
 <h4 align="center">Trophies</h4>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=gruvbox&column=3&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=gruvbox&column=4&margin-w=15&margin-h=15">
 </p>
 
 <h4 align="center">Visitor Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
