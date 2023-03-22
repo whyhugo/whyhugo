@@ -17,12 +17,12 @@
 
 <h4 align="center">Stats</h4>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox">
 </p>
 
 <h4 align="center">Languages</h4>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=gruvbox">
 </p>
 
 <h4 align="center">Trophies</h4>
