@@ -73,6 +73,8 @@
 
 <h4 align="center">Streak Stats</h4>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=whyhugo&theme=gruvbox" alt="whyhugo :: Streak Stats" /></p>
+<p align="center">(I don't know why there are so many contributions, maybe github broken at that time😅)</p>
+
 
 <h4 align="center">Visitor Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
