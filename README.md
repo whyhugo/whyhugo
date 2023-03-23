@@ -1,15 +1,15 @@
 # 🍄I'm Hugo Wang
  
 ### A student who focuses on Machine Learning & NLP 
-> **💡My Blog: [WHY Garage](https://whyhugo.github.io)**
+> **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
+> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!
 
 + 💻Python/C++/HTML/CSS/JS
 + 🧠Machine Learning
 + 🛠️3D Modeling & Laser Maker
 + ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
 + 🚴Cycling Enthusiasts 
-> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!<br>
-> Contact me: hugo.tw.wang@gmail.com
+> 📫Contact me: hugo.tw.wang@gmail.com
 
 ### 🎓Education
 + National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
