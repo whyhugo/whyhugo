@@ -13,8 +13,7 @@
 
 ### 🎓Education
 + National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
-+ The Affiliated High School of National Chengchi University (President and Lecturer of Computer Science Club)
-+ Taipei Municipal Jinhua Junior High School
++ The Affiliated High School of National Chengchi University 
 
 ### 🏅Accomplishments
 + 2022 Taiwan International Science Fair - Computer Science and Information Engineering Judges' Award
