@@ -4,14 +4,15 @@
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**
 
 + 💻Python/C++/HTML/CSS/JS
++ 🧠Machine Learning
 + 🛠️3D Modeling & Laser Maker
-+ ⚡Mechatronics
++ ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
 + 🚴Cycling Enthusiasts 
-> ❤️‍🔥Love Sharing, Self-learning and Solving Problem.
+> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!
 
 
 ### 🎓Education
-+ National Taiwan Normal University Department of Computer Science and Information Engineering（特殊選才錄取）
++ National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
 + The Affiliated High School of National Chengchi University (President and Lecturer of Computer Science Club)
 + Taipei Municipal Jinhua Junior High School
 
@@ -19,9 +20,9 @@
 + 2022 Taiwan International Science Fair - Computer Science and Information Engineering Judges' Award
   > [Preventing One-Sided New on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)
 + 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
-+ 2022 中學生黑客松(AWS Hackathon for Middle School Students) 海選入圍
++ 2022 中學生黑客松 (AWS Hackathon for Middle School Students) 海選入圍
 + 2022 AHSNCCU Club Overall Ranking First Award (President of Computer Science Club)
-+ 2020 亞洲機器人運動競技大賽 機器人極速挑戰組(AERC Robot Racing) 北區佳作
++ 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
 + co-Founder of AHSNCCU Students' Information Technology Community
@@ -31,13 +32,13 @@
   + Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
 
 
-### 🎯Other
+### 🎯Others
 + 2023 Admission to National Taiwan Normal University Department of Computer Science and Information Engineering by 特殊選才
 + 2023 Lecturer of AHSNCCU Computer Science Club
-+ 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導(AERC Robot Racing - Team TA)
-+ 2021 國立臺灣科教館未來之星培訓營結訓(NTSEC Future Star Researcher Training)
++ 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導 (AERC Robot Racing - Team TA)
++ 2021 國立臺灣科教館未來之星培訓營結訓 (NTSEC Future Star Researcher Training)
 + 2021 Ministry of Economic Affairs - AIGO Camp
-+ 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤(NTU CASE Lecture 26 Perfect Attendance)
++ 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤 (NTU CASE Lecture 26 Perfect Attendance)
 
 ### ✨Certifications
 + 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
