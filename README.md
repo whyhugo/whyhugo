@@ -1,46 +1,48 @@
-# 🍄About Hugo Wang
+# 🍄I'm Hugo Wang
  
-### 一位專注於機器學習、NLP領域的學生  
-### 💡My Blog: [WHY Garage](https://whyhugo.github.io)
-熱愛分享、自學、發掘並解決問題！  
+### A student who focuses on Machine Learning & NLP 
+> **💡My Blog: [WHY Garage](https://whyhugo.github.io)**
+
++ 💻Python/C++/HTML/CSS/JS
++ 🛠️3D Modeling & Laser Maker
++ ⚡Mechatronics
++ 🚴Cycling Enthusiasts 
+> ❤️‍🔥Love Sharing, Self-learning and Solving Problem.
 
 
+### 🎓Education
++ National Taiwan Normal University Department of Computer Science and Information Engineering（特殊選才錄取）
++ The Affiliated High School of National Chengchi University (President and Lecturer of Computer Science Club)
++ Taipei Municipal Jinhua Junior High School
 
-## 重要經歷
-<p style="font-size: 1.25em"><i class="fa-regular fa-graduation-cap"></i></i> <b>求學歷程</b></p>
+### 🏅Accomplishments
++ 2022 Taiwan International Science Fair - Computer Science and Information Engineering Judges' Award
+> [Preventing One-Sided New on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)**
++ 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
++ 2022 中學生黑客松(AWS Hackathon for Middle School Students) 海選入圍
++ 2022 AHSNCCU Club Overall Ranking First Award (President of Computer Science Club)
++ 2020 亞洲機器人運動競技大賽 機器人極速挑戰組(AERC Robot Racing) 北區佳作
 
-+ 國立臺灣師範大學 資訊工程學系（特殊選才）
-+ 國立政治大學附屬高級中學（資訊社 社長兼教學）
-+ 臺北市立金華國民中學
+### 🪁Social Network & Leader Experience
++ co-Founder of AHSNCCU Students' Information Technology Community
++ AHSNCCU Computer Science Club
+  + President and Lecturer (2021-22)
+  + Convener of 2022 Computer Science Winter Camp
+  + Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
 
 
-<p style="font-size: 1.25em"><i class="fa-regular fa-medal"></i> <b>競賽與獲獎</b></p>
+### 🎯Other
++ 2023 Admission to National Taiwan Normal University Department of Computer Science and Information Engineering by 特殊選才
++ 2023 Lecturer of AHSNCCU Computer Science Club
++ 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導(AERC Robot Racing - Team TA)
++ 2021 國立臺灣科教館未來之星培訓營結訓(NTSEC Future Star Researcher Training)
++ 2021 Ministry of Economic Affairs - AIGO Camp
++ 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤(NTU CASE Lecture 26 Perfect Attendance)
 
-+ 2022 TISF臺灣國際科學展覽會 電腦與資訊工程科 決賽入圍（個人/第一作者）<br>**[Preventing One-Sided New on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)**
-+ 2022 國立政大附中校內科展 電腦與資訊學科 特優（個人/第一作者）
-+ 2022 AWS第二屆中學生黑客松 海選入圍（隊長）
-+ 2021 AERC亞洲機器人運動競技大賽 帶隊指導
-+ 2020 AERC亞洲機器人運動競技大賽 機器人極速挑戰組 北區佳作（隊長）
-
-<p style="font-size: 1.25em"><i class="fa-regular fa-kite"></i> <b>領導與團隊</b></p>
-
-+ [國立政大附中學生校友電資社群](https://discord.gg/2rh8KXZxUn) 發起人暨共同創辦人
-+ 國立政大附中資訊社 社長兼教學（2022校內社團評鑑第一名）
-+ 政附資訊社寒訓營隊、奧義智慧科技 資安教育合作計畫 總召
-
-<p style="font-size: 1.25em"><i class="fa-regular fa-bullseye-arrow"></i> <b>其它</b></p>
-
-+ 2023 特殊選才應屆錄取 國立臺灣師範大學資訊工程學系
-+ 2023 國立政大附中資訊社 社課客座講師
-+ 2023 國立政大附中112級畢冊編輯委員
-+ 2023 國立政大附中112級畢典籌備委員
-+ 2022 國立政大附中校友演講、彈性學習成果發表、創校校長演講 活動主持人
-+ 2021 國立臺灣科教館未來之星培訓營結訓
-+ 2021 經濟部高中職AIGO「AI產業實戰應用人才淬鍊計畫 」結訓
-+ 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤
-+ 北區新興科技中心 微軟AI-900認證
-+ 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員
-+ Bebras國際運算思維挑戰賽 PR 88 (220/300)
+### ✨Certifications
++ 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
++ 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員(Workforce Development Agency, MOL - Maker Space Member)
++ International Challenge on Informatics and Computational Thinking (Bebras) PR 88 (Score: 220/300)
 
 
 <!--
