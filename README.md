@@ -1,9 +1,10 @@
 # 🍄About Hugo Wang
  
 ### 一位專注於機器學習、NLP領域的學生  
+### 💡My Blog: [WHY Garage](https://whyhugo.github.io)
 熱愛分享、自學、發掘並解決問題！  
 
-**💡My Blog: [WHY Garage](https://whyhugo.github.io)**
+
 
 ## 重要經歷
 <p style="font-size: 1.25em"><i class="fa-regular fa-graduation-cap"></i></i> <b>求學歷程</b></p>
