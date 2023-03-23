@@ -8,7 +8,7 @@
 + 🛠️3D Modeling & Laser Maker
 + ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
 + 🚴Cycling Enthusiasts 
-> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!
+> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!<br>
 > Contact me: hugo.tw.wang@gmail.com
 
 ### 🎓Education
