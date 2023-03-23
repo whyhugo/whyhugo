@@ -17,7 +17,7 @@
 
 ### 🏅Accomplishments
 + 2022 Taiwan International Science Fair - Computer Science and Information Engineering Judges' Award
-> [Preventing One-Sided New on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)**
+  > [Preventing One-Sided New on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)**
 + 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
 + 2022 中學生黑客松(AWS Hackathon for Middle School Students) 海選入圍
 + 2022 AHSNCCU Club Overall Ranking First Award (President of Computer Science Club)
