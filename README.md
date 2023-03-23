@@ -9,7 +9,7 @@
 + ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
 + 🚴Cycling Enthusiasts 
 > ❤️‍🔥Love Sharing, Self-learning and Solving Problem!
-
+> Contact me: hugo.tw.wang@gmail.com
 
 ### 🎓Education
 + National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
