@@ -2,7 +2,7 @@
  
 ### A student who focuses on Machine Learning & NLP 
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
-> ❤️‍🔥Love Sharing, Self-learning and Solving Problem!
+> ❤️‍🔥Love Sharing, Self-Learning and Solving Problem!
 
 + 💻Python/C++/HTML/CSS/JS
 + 🧠Machine Learning
