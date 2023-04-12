@@ -29,6 +29,7 @@
   + President and Lecturer (2021-22)
   + Convener of 2022 Computer Science Winter Camp
   + Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
++ 2023 SITCON Camp 課活組 組員
 
 
 ### 🎯Others
