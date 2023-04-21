@@ -24,19 +24,19 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
-+ co-Founder of AHSNCCU Students' Information Technology Community
-+ AHSNCCU Computer Science Club
++ 2022 co-Founder of AHSNCCU Students' Information Technology Community
++ 2021-22 AHSNCCU Computer Science Club
   + President and Lecturer (2021-22)
   + Convener of 2022 Computer Science Winter Camp
-  + Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
-+ 2023 SITCON Camp 課活組 組員
+  + 2022 Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
++ 2023 SITCON Camp 課活組 組員 (2023 SITCON Camp Courses & Activities Team)
 
 
 ### 🎯Others
 + 2023 Admission to National Taiwan Normal University Department of Computer Science and Information Engineering by 特殊選才
 + 2023 Lecturer of AHSNCCU Computer Science Club
 + 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導 (AERC Robot Racing - Team TA)
-+ 2021 國立臺灣科教館未來之星培訓營結訓 (NTSEC Future Star Researcher Training)
++ 2021 國立臺灣科教館未來之星培訓營結訓 (2021 NTSEC Young Talent Intelligence Technology Researcher Training Camp)
 + 2021 Ministry of Economic Affairs - AIGO Camp
 + 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤 (NTU CASE Lecture 26 Perfect Attendance)
 
