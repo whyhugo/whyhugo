@@ -28,8 +28,8 @@
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
 + 2021-22 AHSNCCU Computer Science Club
   + President and Lecturer (2021-22)
-  + 2022 Convener of AHSNCCU Computer Science Club Winter Camp
-  + 2022 Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
+  + 2022 Coordinator of AHSNCCU Computer Science Club Winter Camp
+  + 2022 Coordinator of AHSNCCU Information Security Workshop (Powered by CyCraft)
 
 
 
