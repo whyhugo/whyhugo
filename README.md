@@ -1,5 +1,5 @@
-# 🍄Welcome to my profile page!
-### I'm Hugo Wang
+# I'm Hugo Wang👋
+ 
 ### A student who focuses on Machine Learning & NLP 
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > ❤️‍🔥Love Sharing, Self-Learning and Solving Problem!
