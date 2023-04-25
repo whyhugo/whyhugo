@@ -16,7 +16,7 @@
 + The Affiliated High School of National Chengchi University 
 
 ### 🏅Accomplishments
-+ 2022 Taiwan International Science Fair - Computer Science and Information Engineering Judges' Award
++ 2022 Taiwan International Science Fair - Computer Science and Information Engineering
   > [Preventing One-Sided News on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/Science-Content.aspx?cat=&a=0&fld=&key=&isd=1&icop=10&p=1000&sid=19394)
 + 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
 + 2022 中學生黑客松 (AWS Hackathon for Middle School Students) 海選入圍
@@ -24,12 +24,13 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
++ 2023 SITCON Camp 課活組 組員 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
 + 2021-22 AHSNCCU Computer Science Club
   + President and Lecturer (2021-22)
-  + Convener of 2022 Computer Science Winter Camp
+  + 2022 Convener of AHSNCCU Computer Science Club Winter Camp
   + 2022 Convener of AHSNCCU Information Security Workshop (Powered by CyCraft)
-+ 2023 SITCON Camp 課活組 組員 (2023 SITCON Camp Courses & Activities Team)
+
 
 
 ### 🎯Others
