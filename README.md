@@ -9,7 +9,7 @@
 + 🛠️3D Modeling & Laser Maker
 + ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
 + 🚴Cycling Enthusiasts 
-> 📫Contact me: hugo.tw.wang@gmail.com
+> 📫Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
 ### 🎓Education
 + National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
@@ -30,8 +30,6 @@
   + President and Lecturer (2021-22)
   + 2022 Coordinator of AHSNCCU Computer Science Club Winter Camp
   + 2022 Coordinator of AHSNCCU Information Security Workshop (Powered by CyCraft)
-
-
 
 ### 🎯Others
 + 2023 Admission to National Taiwan Normal University Department of Computer Science and Information Engineering by 特殊選才
@@ -80,7 +78,4 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
 
 
-
-
-
-
+.........
