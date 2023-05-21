@@ -5,14 +5,14 @@
 > ❤️‍🔥Love Sharing, Self-Learning and Solving Problem!
 
 + 💻Python/C++/HTML/CSS/JS
-+ 🧠Machine Learning
++ 🧠Machine Learning, NLP & Data Science
 + 🛠️3D Modeling & Laser Maker
-+ ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit, robot...)
++ ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit...)
 + 🚴Cycling Enthusiasts 
 > 📫Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
 ### 🎓Education
-+ National Taiwan Normal University Department of Computer Science and Information Engineering（Admission by 特殊選才）
++ Department of Computer Science and Information Engineering, National Taiwan Normal University （Admission by 特殊選才）
 + The Affiliated High School of National Chengchi University 
 
 ### 🏅Accomplishments
