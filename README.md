@@ -24,8 +24,8 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
-+ 2023 SITCON Camp 主線課程 講師
-+ 2023 SITCON Camp 課活組 組員 (SITCON Camp 2023 - Courses & Activities Team)
++ 2023 SITCON Camp 主線課程 講師 (SITCON Camp 2023 - Lecturer)
++ 2023 SITCON Camp 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
 + 2021-22 AHSNCCU Computer Science Club
   + President and Lecturer (2021-22)
