@@ -2,7 +2,7 @@
  
 ### A student focused on Machine Learning & NLP 
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
-> ❤️‍🔥Love Sharing, Self-Learning and Solving Problem!
+> ❤️‍🔥Love Sharing, Self-Learning and Solving Problems though Project Development!
 
 + 💻Python/C++/HTML/CSS/JS
 + 🧠Machine Learning, NLP & Data Science
@@ -24,15 +24,18 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
-+ 2023 SITCON Camp 主線課程 講師 (SITCON Camp 2023 - Lecturer)
++ 2023-24 Google Developer Student Clubs NTNU Tech Core Team Member
++ 2023 SITCON Camp 主線課程 講者 (SITCON Camp 2023 - Lecturer)
 + 2023 SITCON Camp 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
-+ 2021-22 AHSNCCU Computer Science Club
-  + President and Lecturer (2021-22)
-  + 2022 Coordinator of AHSNCCU Computer Science Club Winter Camp
++ 2020-22 AHSNCCU Computer Science Club
+  + 2021-22 President and Lecturer
+  + 2022 Coordinator of AHSNCCU Computer Science Club Online Winter Camp
   + 2022 Coordinator of AHSNCCU Information Security Workshop (Powered by CyCraft)
+  + 2020 Member
 
 ### 🎯Others
++ 2023 ISIP AIS3
 + 2023 Admission to National Taiwan Normal University Department of Computer Science and Information Engineering by 特殊選才
 + 2023 Lecturer of AHSNCCU Computer Science Club
 + 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導 (AERC Robot Racing - Team TA)
@@ -41,10 +44,9 @@
 + 2021 國立臺灣大學科教中心CASE系列研習講座第26期全勤 (NTU CASE Lecture 26 Perfect Attendance)
 
 ### ✨Certifications
-+ 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
-+ 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員(Workforce Development Agency, MOL - Maker Space Member)
-+ International Challenge on Informatics and Computational Thinking (Bebras) PR 88 (Score: 220/300)
-
++ 2022 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
++ 2021 International Challenge on Informatics and Computational Thinking (Bebras) PR 88 (Score: 220/300)
++ 2020 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員(Workforce Development Agency, MOL - Maker Space Member)
 
 <!--
 [![GitHub - Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only) [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only)
