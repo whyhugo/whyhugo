@@ -24,9 +24,10 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
++ 2023-24 SITCON 2024 議程組 副組長 (SITCON 2024 Agenda Committee - Deputy Supervisor)
 + 2023-24 Google Developer Student Clubs NTNU - Tech Core Team Member
-+ 2023 SITCON Camp 主線課程 講者 (SITCON Camp 2023 - Lecturer)
-+ 2023 SITCON Camp 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
++ 2023 SITCON Camp 2023 主線課程 講者 (SITCON Camp 2023 - Lecturer)
++ 2023 SITCON Camp 2023 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
 + 2020-22 AHSNCCU Computer Science Club
   + 2021-22 President and Lecturer
@@ -35,7 +36,7 @@
   + 2020 Member
 
 ### 🎯Others
-+ 2023 ISIP AIS3
++ 2023 ISIP AIS3 新型態資安實務暑期課程結訓
 + 2023 Admission to Department of Computer Science and Information Engineering at National Taiwan Normal University by 特殊選才
 + 2023 Lecturer of AHSNCCU Computer Science Club
 + 2021 亞洲機器人運動競技大賽 機器人極速挑戰組 帶隊指導 (AERC Robot Racing - Team TA)
