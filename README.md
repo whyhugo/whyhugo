@@ -7,7 +7,7 @@
 + 💻Python/C++/HTML/CSS/JS
 + 🧠Machine Learning, NLP & Data Science
 + 🛠️3D Modeling & Laser Maker
-+ ⚡Mechatronics(Arduino, Raspberry pi, Micro:bit...)
++ ⚡Mechatronics (Arduino, Raspberry pi, Micro:bit...)
 + 🚴Cycling Enthusiasts 
 > 📫Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
