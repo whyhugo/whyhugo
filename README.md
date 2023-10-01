@@ -1,4 +1,4 @@
-# 🍄I'm Hugo Wang👋
+# 👋I'm Hugo Wang (๑•̀ㅁ•́ฅ)
  
 ### A student focused on Machine Learning & NLP 
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
