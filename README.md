@@ -46,7 +46,6 @@
 
 ### ✨Certifications
 + 2022 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
-+ 2021 International Challenge on Informatics and Computational Thinking (Bebras) PR 88 (Score: 220/300)
 + 2020 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員 (Workforce Development Agency, MOL - Maker Space Member)
 
 <!--
