@@ -4,7 +4,7 @@
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
-+ 💻Python/C++/HTML/CSS/JS
++ 💻Python/C++/HTML/CSS
 + 🧠Machine Learning, NLP & Data Science
 + 🛠️3D Modeling & Laser Maker
 + ⚡Mechatronics (Arduino, Raspberry pi, Micro:bit...)
