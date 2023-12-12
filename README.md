@@ -26,6 +26,7 @@
 ### 🪁Social Network & Leader Experience
 + 2023-24 SITCON 2024 議程組 副組長 (SITCON 2024 Agenda Committee - Deputy Supervisor)
 + 2023-24 Google Developer Student Clubs NTNU - Tech Core Team Member
++ 2023 SITCON HoC @Hsinchu - Teaching Assistant
 + 2023 SITCON Camp 2023 主線課程 講者 (SITCON Camp 2023 - Lecturer)
 + 2023 SITCON Camp 2023 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
