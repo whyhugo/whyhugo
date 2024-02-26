@@ -1,6 +1,6 @@
 # 👋I'm Hugo Wang (๑•̀ㅁ•́ฅ)
  
-### A student focused on Machine Learning & NLP 
+### "Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
@@ -57,7 +57,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whyhugo&theme=chartreuse-dark&column=4&margin-w=15&margin-h=15)](https://github.com/whyhugo/github-profile-trophy)-->
 
-<h2 align="center"> GitHub Stats </h1>
+<h2 align="center">GitHub Stats</h1>
 
 <h4 align="center">Stats</h4>
 <p align="center"> 
@@ -79,5 +79,3 @@
 
 <h4 align="center">Visitor Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
-
-
