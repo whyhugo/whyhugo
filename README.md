@@ -4,18 +4,20 @@
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
-+ 💻Python/C++/HTML/CSS
-+ 🧠Machine Learning, NLP & Data Science
-+ 🛠️3D Modeling & Laser Maker
-+ ⚡Mechatronics (Arduino, Raspberry pi, Micro:bit...)
-+ 🚴Cycling Enthusiasts 
-> 📫Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
++ 💻 Python/C++/HTML/CSS
++ 🧠 Machine Learning, NLP & Data Science
++ 🪄 UI/UX & Front-end
++ 🛠️ 3D Modeling & Laser Maker
++ ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit...)
++ 🚴 Cycling Enthusiasts 
+> 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
 ### 🎓Education
 + Department of Computer Science and Information Engineering, National Taiwan Normal University （Admission by 特殊選才）
 + The Affiliated High School of National Chengchi University 
 
 ### 🏅Accomplishments
++ 2024 臺師大教育大數據微學程計畫競賽 實踐創作組 佳作
 + 2022 Taiwan International Science Fair - Computer Science and Information Engineering Finalist
   > [Preventing One-Sided News on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394)
 + 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
@@ -24,11 +26,12 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
-+ 2023-24 SITCON 2024 議程組 副組長 (SITCON 2024 Agenda Committee - Deputy Supervisor)
++ 2024 SITCON Camp 行政組 (SITCON Camp 2023 - Administrative Team)
 + 2023-24 Google Developer Student Clubs NTNU - Tech Core Team Member
++ 2023-24 SITCON 2024 議程組 副組長 (SITCON 2024 Agenda Committee - Deputy Supervisor)
 + 2023 SITCON HoC @Hsinchu - Teaching Assistant
-+ 2023 SITCON Camp 2023 主線課程 講者 (SITCON Camp 2023 - Lecturer)
-+ 2023 SITCON Camp 2023 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
++ 2023 SITCON Camp 主線課程 講者 (SITCON Camp 2023 - Lecturer)
++ 2023 SITCON Camp 課程活動組 (SITCON Camp 2023 - Courses & Activities Team)
 + 2022 co-Founder of AHSNCCU Students' Information Technology Community
 + 2020-22 AHSNCCU Computer Science Club
   + 2021-22 President and Lecturer
