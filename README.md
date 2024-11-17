@@ -1,22 +1,28 @@
 # 👋I'm Hugo Wang (๑•̀ㅁ•́ฅ)
- 
+
+[![Instagram](https://img.shields.io/badge/whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
+[![Facebook](https://img.shields.io/badge/whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
+[![Linkedin](https://img.shields.io/badge/Hugo_Wang-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/whyhugo/)
+[![Github](https://img.shields.io/badge/whyhugo-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/whyhugo)
+
 ### "Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
-+ 💻 Python/C++/HTML/CSS
++ 💻 Python/C/C++/HTML/CSS/JavaScript
 + 🧠 Machine Learning, NLP & Data Science
-+ 🪄 UI/UX & Front-end
++ 🪄 UI/UX & Front-end/React
 + 🛠️ 3D Modeling & Laser Maker
 + ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit...)
 + 🚴 Cycling Enthusiasts 
 > 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
 ### 🎓Education
-+ Department of Computer Science and Information Engineering, National Taiwan Normal University （Admission by 特殊選才）
-+ The Affiliated High School of National Chengchi University 
++ B.S., Computer Science and Information Engineering, National Taiwan Normal University (2023~2027 expected)
++ The Affiliated High School of National Chengchi University (2020~2023)
 
 ### 🏅Accomplishments
++ 2024 資策會數位教育研究所樂齡盃 遊戲設計學生組 最佳團隊
 + 2024 臺師大教育大數據微學程計畫競賽 實踐創作組 佳作
 + 2022 Taiwan International Science Fair - Computer Science and Information Engineering Finalist
   > [Preventing One-Sided News on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394)
@@ -26,8 +32,12 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 (AERC Robot Racing) 北區佳作
 
 ### 🪁Social Network & Leader Experience
++ 2025 NTNU CSIE Camp 教學股 股長
++ 2025 SITCON 場務組場控股（SITCON 2025 Venue Controller）
++ 2024 NTNU CSIE Camp 教學股 股員
++ 2024 NTNU CSIE Camp 研發組 組員
 + 2024 SITCON Camp 行政組 (SITCON Camp 2023 - Administrative Team)
-+ 2023-24 Google Developer Student Clubs NTNU - Tech Core Team Member
++ 2023-24 Google Developer Student Clubs NTNU - Tech Core Team Member (Speaker)
 + 2023-24 SITCON 2024 議程組 副組長 (SITCON 2024 Agenda Committee - Deputy Supervisor)
 + 2023 SITCON HoC @Hsinchu - Teaching Assistant
 + 2023 SITCON Camp 主線課程 講者 (SITCON Camp 2023 - Lecturer)
