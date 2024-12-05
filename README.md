@@ -59,6 +59,7 @@
 + 2021 國立臺灣大學科教中心 CASE 系列研習講座第 26 期【Future of AI—人工智慧大未來】全勤 (NTU CASE Lecture 26 "Future of AI" Perfect Attendance)
 
 ### ✨Certifications
++ 2024 iPAS 淨零碳規劃管理師 - 初級（iPAS Net-Zero Carbon Emission Planning Administrator - Associate Level）
 + 2022 北區新興科技推廣中心 Microsoft AI-900 Azure Certificate
 + 2020 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員 (Workforce Development Agency, MOL - Maker Space Member)
 
