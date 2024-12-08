@@ -38,7 +38,7 @@
 + 2023 MLB 10-Year Data Analysis and Championship Prediction with Machine Learning <br>[GitHub](https://github.com/whyhugo/Data-Analysis-in-Sports)
 + 2023 AHSNCCU Access Management System (AMS) <br>[GitHub](https://github.com/ahsnccu-cim/lib-AMS)
 
-### 🎤Lecture & Speech
+### 🎤Lectures & Speech
 + Computer Science Tutor for Special Education Homeschoolers (2023/10~present)
 + Gifted Education Parenting Lecture at Hsinchu Hsing Lung Elementary School - Speaker (2024/10/09)
 + NTNU CSIE Camp "Basics of Machine Learning" - Speaker (2024/07/02)
