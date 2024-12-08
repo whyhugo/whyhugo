@@ -30,15 +30,15 @@
   > [Preventing One-Sided News on the Social Platform Using Deep Learning and Transfer Learning Methods](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394)
 + 2022 AHSNCCU Science Fair - Computer Science and Information Engineering First Place Award
 + 2022 The 2nd High School Hackathon - Shortlisted in Preliminary Round
-+ 2020 AERC Robot Competition - Northern Region Honorable Mention
++ 2020 AERC Robot Competition - Taiwan Northern Region Honorable Mention
 
 ### 🧩Projects
 + 2024 NTNU CSIE Camp Website <br>[NTNU CSIE Camp website](https://camp.csie.cool/) / [GitHub](https://github.com/CSIE-Camp/Camp_website_2024) / [GitHub repo contribute](https://github.com/CSIE-Camp/Camp_website_2024/graphs/contributors)
-+ 2024 SITCON Google Sheet submission review tool frontend fature improvement <br>[Website](https://sitcon.org/submission-review/) / [GitHub](https://github.com/sitcon-tw/submission-review) / [GitHub repo PR](https://github.com/sitcon-tw/submission-review/pull/5)
++ 2024 SITCON Google Sheet submission review tool frontend feature improvement <br>[Website](https://sitcon.org/submission-review/) / [GitHub](https://github.com/sitcon-tw/submission-review) / [GitHub repo PR](https://github.com/sitcon-tw/submission-review/pull/5)
 + 2023 MLB 10-Year Data Analysis and Championship Prediction with Machine Learning <br>[GitHub](https://github.com/whyhugo/Data-Analysis-in-Sports)
 + 2023 AHSNCCU Access Management System (AMS) <br>[GitHub](https://github.com/ahsnccu-cim/lib-AMS)
 
-### Lecture & Speech
+### 🎤Lecture & Speech
 + Computer Science Tutor for Special Education Homeschoolers (2023/10~present)
 + Gifted Education Parenting Lecture at Hsinchu Hsing Lung Elementary School - Speaker (2024/10/09)
 + NTNU CSIE Camp "Basics of Machine Learning" - Speaker (2024/07/02)
@@ -68,15 +68,15 @@
 + AHSNCCU Computer Science Club
   > First Place Award in the 2022 AHSNCCU Campus Club Evaluation  
   + President and Speaker (2021/07~2022/06)
-  + AHSNCCU Computer Science Club Online Winter Camp - Coordinator Team (2021/11~2022/01)
-  + AHSNCCU Information Security CyCraft Workshop - Coordinator (2022/03~2022/05)
+  + Online Winter Camp - Coordinator Team (2021/11~2022/01)
+  + Information Security CyCraft Workshop - Coordinator (2022/03~2022/05)
   + Member (2020/09~2021/06)
 
 ### 🎯Others
 + 2023 ISIP AIS3 Advanced Information Security Summer School
 + 2023 Admission to Department of Computer Science and Information Engineering at National Taiwan Normal University by 特殊選才
-+ AHSNCCU Graduation Yearbook Editorial Committee Member
-+ AHSNCCU Graduation Ceremony Preparation Committee Member
++ AHSNCCU Class of 2023 Graduation Yearbook Editorial Committee Member
++ AHSNCCU Class of 2023 Graduation Ceremony Preparation Committee Member
 + 2021 NTSEC Young Talent Intelligence Technology Researcher Training Camp
 + 2021 Ministry of Economic Affairs AIGO Summer Camp
 + 2021 NTU CASE Lecture 26 "Future of AI" Perfect Attendance
