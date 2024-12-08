@@ -13,7 +13,7 @@
 + 🧠 Machine Learning, NLP & Data Science
 + 🪄 UI/UX, Front-end & React
 + 🛠️ 3D Modeling & Laser Maker
-+ ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit...)
++ ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit)
 + 🚴 Cycling Enthusiasts 
 > 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
@@ -24,7 +24,7 @@
 ### 🏅Accomplishments
 + 2024 資策會數位教育研究所樂齡盃 學生遊戲設計組 最佳團隊
 + 2024 臺師大教育大數據微學程計畫競賽 實踐創作組 佳作
-+ 2022 臺灣國際科學展覽會 電腦科學與資訊工程科 決賽
++ 2022 TISF 臺灣國際科學展覽會 電腦科學與資訊工程科 決賽
   > [以深度學習與遷移學習防範社群媒體片面新聞訊息之研究](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394)
 + 2022 國立政大附中校內科學展覽競賽 電腦與資訊學科 特優
 + 2022 第二屆中學生黑客松競賽 入圍海選
@@ -64,7 +64,7 @@
 + 國立政大附中學生校友電資社群
   + 共同發起人（2022/09~present）
 + 國立政大附中資訊社
-  > 獲 2022 校內社團評鑑第一名（2020/09~2022/06）  
+  > 獲 2022 校內社團評鑑第一名  
   + 社長兼教學（2021/07~2022/06）
   + 政附資訊社線上寒訓營隊 總召組（2021/11~2022/01）
   + 政附資訊社 × 奧義智慧 資安教育合作活動 前期籌辦（2022/03~2022/05）
@@ -76,7 +76,7 @@
 + 2023 國立政大附中 112 級畢冊編輯委員
 + 2023 國立政大附中 112 級畢典籌備委員
 + 2021 國立臺灣科教館未來之星培訓營結訓
-+ 2021 經濟度 AIGO 暑期課程結訓
++ 2021 經濟部 AIGO 暑期課程結訓
 + 2021 國立臺灣大學科教中心 CASE 系列研習講座第 26 期【Future of AI—人工智慧大未來】全勤 
 
 ### ✨Certifications
