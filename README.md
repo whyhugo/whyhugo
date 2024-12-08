@@ -7,7 +7,7 @@
 
 ### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
-> 🌳[Linktree](https://linktr.ee/whyhugo)
+> 🌳Here is my [Linktree](https://linktr.ee/whyhugo)  
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
 + 💻 Python/C/HTML/CSS/JavaScript
