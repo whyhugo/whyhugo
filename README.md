@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
 [![Facebook](https://img.shields.io/badge/whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
 
+> [📃Switch to "English version"](https://github.com/whyhugo/whyhugo/tree/main/english_version)
 ### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > 🌳Here is my [Linktree](https://linktr.ee/whyhugo)  

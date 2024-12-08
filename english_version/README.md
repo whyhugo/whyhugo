@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
 [![Facebook](https://img.shields.io/badge/whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
 
+> [📃切換「繁體中文版本」](https://github.com/whyhugo/whyhugo/)
 ### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
 > **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
 > 🌳[Linktree](https://linktr.ee/whyhugo)
@@ -38,38 +39,38 @@
 + 2023 AHSNCCU Access Management System (AMS) <br>[GitHub](https://github.com/ahsnccu-cim/lib-AMS)
 
 ### Lecture & Speech
-+ Computer Science Tutor for Special Education Homeschoolers（2023/10~present）
-+ Gifted Education Parenting Lecture at Hsinchu Hsing Lung Elementary School - Speaker（2024/10/09）
-+ NTNU CSIE Camp "Basics of Machine Learning" - Speaker（2024/07/02）
-+ GDSC NTNU Core Team - Tech Speaker（2023/09~2024/06）
-  + Web Scraping with Python（2023/10/30）
-  + Data Processing with Python（2023/11/13）
-  + Basics of CSS（2024/03/28）
-+ NTNU Big Data in Education Program - Course Teaching Assistant（2023/09~2023/12）
-+ SITCON Camp "Python Container Datatypes" - Speaker（2023/07/21）
-+ AHSNCCU Computer Science Club Speaker（2021/09-2022/06）
++ Computer Science Tutor for Special Education Homeschoolers (2023/10~present)
++ Gifted Education Parenting Lecture at Hsinchu Hsing Lung Elementary School - Speaker (2024/10/09)
++ NTNU CSIE Camp "Basics of Machine Learning" - Speaker (2024/07/02)
++ GDSC NTNU Core Team - Tech Speaker (2023/09~2024/06)
+  + Web Scraping with Python (2023/10/30)
+  + Data Processing with Python (2023/11/13)
+  + Basics of CSS (2024/03/28)
++ NTNU Big Data in Education Program - Course Teaching Assistant (2023/09~2023/12)
++ SITCON Camp "Python Container Datatypes" - Speaker (2023/07/21)
++ AHSNCCU Computer Science Club Speaker (2021/09-2022/06)
 
 ### 🪁Teamwork Experience
 + SITCON (Students' Information Technology Conference)
-  + Venue Management Team - Member（2024/11~present）
-  + Summer Camp Administrative Team - Member（2024/04~2024/07）
-  + Hour of Code @Hsinchu - Teaching Assistant（2023/12/10）
-  + Agenda Committee Team - Deputy Team Leader（2023/09~2024/03）
-  + Summer Camp Courses and Activities Team - Member（2023/04~2023/07）
+  + Venue Management Team - Member (2024/11~present)
+  + Summer Camp Administrative Team - Member (2024/04~2024/07)
+  + Hour of Code @Hsinchu - Teaching Assistant (2023/12/10)
+  + Agenda Committee Team - Deputy Team Leader (2023/09~2024/03)
+  + Summer Camp Courses and Activities Team - Member (2023/04~2023/07)
 + NTNU CSIE Camp
   + Course Teaching Team - Leader (2024/09~present)
   + Course Teaching Team - Member (2023/12~2024/07)
   + Development Team - Member (2023/12~2024/07)
 + Google Developer Student Clubs NTNU
-  + Tech Core Team Member（2023/09~2024/06）
+  + Tech Core Team Member (2023/09~2024/06)
 + AHSNCCU CIM Information Technology Community
-  + co-Founder（2022/09~present）
+  + co-Founder (2022/09~present)
 + AHSNCCU Computer Science Club
   > First Place Award in the 2022 AHSNCCU Campus Club Evaluation  
-  + President and Speaker（2021/07~2022/06）
-  + AHSNCCU Computer Science Club Online Winter Camp - Coordinator Team（2021/11~2022/01）
-  + AHSNCCU Information Security CyCraft Workshop - Coordinator（2022/03~2022/05）
-  + Member（2020/09~2021/06）
+  + President and Speaker (2021/07~2022/06)
+  + AHSNCCU Computer Science Club Online Winter Camp - Coordinator Team (2021/11~2022/01)
+  + AHSNCCU Information Security CyCraft Workshop - Coordinator (2022/03~2022/05)
+  + Member (2020/09~2021/06)
 
 ### 🎯Others
 + 2023 ISIP AIS3 Advanced Information Security Summer School
