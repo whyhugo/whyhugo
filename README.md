@@ -1,6 +1,6 @@
 # 👋I'm Hugo Wang (๑•̀ㅁ•́ฅ)
 
-[![Linkedin](https://img.shields.io/badge/Hugo_Wang-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/whyhugo/)
+[![Linkedin](https://img.shields.io/badge/Linkedin_Hugo-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/whyhugo/)
 [![GitHub](https://img.shields.io/badge/whyhugo-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/whyhugo)
 [![Instagram](https://img.shields.io/badge/whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
 [![Facebook](https://img.shields.io/badge/whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
