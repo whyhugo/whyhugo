@@ -33,7 +33,7 @@
 + 2020 AERC Robot Competition - Taiwan Northern Region Honorable Mention
 
 ### 🧩Projects
-+ 2024 NTNU CSIE Camp Website <br>[NTNU CSIE Camp website](https://camp.csie.cool/) / [GitHub](https://github.com/CSIE-Camp/Camp_website_2024) / [GitHub repo contribute](https://github.com/CSIE-Camp/Camp_website_2024/graphs/contributors)
++ 2024 NTNU CSIE Camp Website <br>[NTNU CSIE Camp 2024 website](https://1892a2c0.camp.pages.dev) / [GitHub](https://github.com/CSIE-Camp/Camp_website_2024) / [GitHub repo contribute](https://github.com/CSIE-Camp/Camp_website_2024/graphs/contributors)
 + 2024 SITCON Google Sheet submission review tool frontend feature improvement <br>[Website](https://sitcon.org/submission-review/) / [GitHub](https://github.com/sitcon-tw/submission-review) / [GitHub repo PR](https://github.com/sitcon-tw/submission-review/pull/5)
 + 2023 MLB 10-Year Data Analysis and Championship Prediction with Machine Learning <br>[GitHub](https://github.com/whyhugo/Data-Analysis-in-Sports)
 + 2023 AHSNCCU Access Management System (AMS) <br>[GitHub](https://github.com/ahsnccu-cim/lib-AMS)
@@ -52,7 +52,7 @@
 
 ### 🪁Teamwork Experience
 + SITCON (Students' Information Technology Conference)
-  + Venue Management Team - Member (2024/11~present)
+  + Venue Management Team - Member (2024/11~2025/03)
   + Summer Camp Administrative Team - Member (2024/04~2024/07)
   + Hour of Code @Hsinchu - Teaching Assistant (2023/12/10)
   + Agenda Committee Team - Deputy Team Leader (2023/09~2024/03)
