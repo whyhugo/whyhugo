@@ -33,7 +33,7 @@
 + 2020 亞洲機器人運動競技大賽 機器人極速挑戰組 北區佳作
 
 ### 🧩Projects
-+ 2024 臺師大資工營 研發組 前端開發 <br>[NTNU CSIE Camp website](https://camp.csie.cool/) / [GitHub](https://github.com/CSIE-Camp/Camp_website_2024) / [GitHub repo contribute](https://github.com/CSIE-Camp/Camp_website_2024/graphs/contributors)
++ 2024 臺師大資工營 研發組 前端開發 <br>[NTNU CSIE Camp 2024 website](https://1892a2c0.camp.pages.dev) / [GitHub](https://github.com/CSIE-Camp/Camp_website_2024) / [GitHub repo contribute](https://github.com/CSIE-Camp/Camp_website_2024/graphs/contributors)
 + 2024 SITCON Google Sheet submission review tool 前端功能改善 <br>[Website](https://sitcon.org/submission-review/) / [GitHub](https://github.com/sitcon-tw/submission-review) / [GitHub repo PR](https://github.com/sitcon-tw/submission-review/pull/5)
 + 2023 運用 MLB 10 年數據進行分析與機器學習冠軍預測 <br>[GitHub](https://github.com/whyhugo/Data-Analysis-in-Sports)
 + 2023 政附電資社群 AMS 學生證圖書館進出管理系統 <br>[GitHub](https://github.com/ahsnccu-cim/lib-AMS)
