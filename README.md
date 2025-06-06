@@ -7,8 +7,8 @@
 
 > [📃Switch to "English version"](https://github.com/whyhugo/whyhugo/tree/main/english_version)
 ### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
-> **💡My Blog: [WHY Garage](https://whyhugo.github.io)**<br>
-> 🌳Here is my [Linktree](https://linktr.ee/whyhugo)  
+> **💡My Blog: [WHY Garage](https://whyhugo.me)**<br>
+> 🌳Here is my [Linktree](https://links.whyhugo.me)  
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
 + 💻 Python/C/HTML/CSS/JavaScript
