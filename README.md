@@ -19,7 +19,7 @@
 + 🚴 Cycling Enthusiasts 
 > 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
 
-### Experience
+### 🐳Experience
 + 中央研究院 數位文化中心 Machine Learning Intern（2025/02~present）
 
 ### 🎓Education
