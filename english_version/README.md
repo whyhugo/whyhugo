@@ -7,8 +7,8 @@
 
 > [📃切換「繁體中文版本」](https://github.com/whyhugo/whyhugo/)
 ### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
-> **💡My Blog: [WHY Garage](https://whyhugo.github.io)**  
-> 🌳Here is my [Linktree](https://linktr.ee/whyhugo)  
+> **💡My Blog: [WHY Garage](https://whyhugo.me)**  
+> 🌳Here is my [Linktree](https://links.whyhugo.me)  
 > ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
 
 + 💻 Python/C/HTML/CSS/JavaScript
@@ -18,6 +18,9 @@
 + ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit)
 + 🚴 Cycling Enthusiasts 
 > 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
+
+### 🐳Experience
++ Academia Sinica (Center for Digital Cultures) - Machine Learning Intern（2025/02~present）
 
 ### 🎓Education
 + B.S., Computer Science and Information Engineering, National Taiwan Normal University (2023~2027 expected)
@@ -52,13 +55,14 @@
 
 ### 🪁Teamwork Experience
 + SITCON (Students' Information Technology Conference)
-  + Venue Management Team - Member (2024/11~2025/03)
+  + Service Team - Catering Lead (2025/09~present)
+  + Service Team - Agenda Assistant Member (2024/11~2025/03)
   + Summer Camp Administrative Team - Member (2024/04~2024/07)
   + Hour of Code @Hsinchu - Teaching Assistant (2023/12/10)
   + Agenda Committee Team - Deputy Team Leader (2023/09~2024/03)
   + Summer Camp Courses and Activities Team - Member (2023/04~2023/07)
 + NTNU CSIE Camp
-  + Course Teaching Team - Leader (2024/09~present)
+  + Course Teaching Team - Leader (2024/09~2025/07)
   + Course Teaching Team - Member (2023/12~2024/07)
   + Development Team - Member (2023/12~2024/07)
 + Google Developer Student Clubs NTNU
