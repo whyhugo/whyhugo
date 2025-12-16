@@ -1,24 +1,78 @@
-# 👋I'm Hugo Wang (๑•̀ㅁ•́ฅ)
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/Linkedin_Hugo-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/whyhugo/)
-[![GitHub](https://img.shields.io/badge/whyhugo-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/whyhugo)
-[![Instagram](https://img.shields.io/badge/whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
-[![Facebook](https://img.shields.io/badge/whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
+# 👋 I'm Hugo Wang ヾ(•ω•`)o
 
-> [📃Switch to "English version"](https://github.com/whyhugo/whyhugo/tree/main/english_version)
-### *"Enthusiasm" means that even when things don't go as expected, you still continue to work hard without fear of difficulties."*
-> **💡My Blog: [WHY Garage](https://whyhugo.me)**<br>
-> 🌳Here is my [Linktree](https://links.whyhugo.me)  
-> ❤️‍🔥Love Sharing, Self-Learning and Developing Projects to Solve Problems!
+### _"Enthusiasm means continuing to work hard without fear,<br>even when things don't go as expected."_
 
-+ 💻 Python/C/HTML/CSS/JavaScript
-+ 🧠 Machine Learning, NLP & Data Science
-+ 🪄 UI/UX, Front-end & React
-+ 🛠️ 3D Modeling & Laser Maker
-+ ⚡ Mechatronics (Arduino, Raspberry pi, Micro:bit)
-+ 🚴 Cycling Enthusiasts 
-> 📫 Contact me: hugo.tw.wang@gmail.com or hugo.csie@ntnu.edu.tw
+<br>
 
+**💡 [WHY Garage (Blog)](https://whyhugo.me)** &nbsp;|&nbsp; **🌳 [Linktree](https://links.whyhugo.me)**
+
+<br>
+
+Enjoy developing projects to solve problems!  
+~~And my main job is everything except my main job~~ :P
+
+❤️‍🔥
+
+---
+
+### 🚀 Tech Stack
+
+</div>
+
+- **💻 Languages** &nbsp; `Python` `C` `HTML/CSS` `JS/TS`
+- **🧠 AI / Data** &nbsp;&nbsp;&nbsp;&nbsp; `Machine Learning` `NLP` `PyTorch`
+- **⛑️ Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Node.js/Express` `Svelte` `MySQL` `Docker`
+- **🪄 Frontend** &nbsp;&nbsp;&nbsp;&nbsp; `React` `Svelte` `Vite` `UI/UX`
+- **⚡ Hardware** &nbsp;&nbsp;&nbsp; `Arduino` `Raspberry Pi` `Micro:bit`
+- **🛠️ Maker** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `3D Modeling` `Laser Cutting`
+
+<br>
+
+<div align="center">
+
+---
+
+### 📊 GitHub Stats
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox" height="180" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=8&cache_seconds=7200&card_height=180&theme=gruvbox" height="180" alt="Languages" />
+</p>
+
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+<br>
+
+<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=whyhugo&theme=gruvbox" alt="Streak" />
+</p>
+<br>
+
+---
+
+### 📫 Contact me
+**hugo.tw.wang@gmail.com** &nbsp;•&nbsp; **hugo.csie@ntnu.edu.tw**
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-Hugo%20Wang-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/whyhugo/)
+[![GitHub](https://img.shields.io/badge/GitHub-whyhugo-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/whyhugo)
+[![Instagram](https://img.shields.io/badge/IG-whyhugo.tw-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/whyhugo.tw/)
+[![Facebook](https://img.shields.io/badge/FB-whyhugo-1877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/whyhugo/)
+
+<br>
+
+[![More About Me](https://img.shields.io/badge/More_About_Me-➜-2ea44f?style=for-the-badge)](https://whyhugo.github.io/about/)
+
+</div>
+
+<!--
 ### 🐳Experience
 + 中央研究院 數位文化中心 Machine Learning Intern（2025/02~present）
 
@@ -90,6 +144,7 @@
 + 2024 iPAS 淨零碳規劃管理師 - 初級
 + 2022 北區新興科技推廣中心 Microsoft AI-900
 + 2020 勞動部勞動力發展署北基宜花金馬分署物聯網創客基地 會員
+-->
 
 <!--
 [![GitHub - Language Stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only) [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/whyhugo/github-readme-stats#gh-dark-mode-only)
@@ -99,26 +154,3 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whyhugo&theme=chartreuse-dark&column=4&margin-w=15&margin-h=15)](https://github.com/whyhugo/github-profile-trophy)-->
-
-<h2 align="center">GitHub Stats</h1>
-
-<h4 align="center">Stats</h4>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhugo&show_icons=true&count_private=true&cache_seconds=7200&card_width=400&theme=gruvbox">
-</p>
-
-<h4 align="center">Languages</h4>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhugo&layout=compact&langs_count=4&cache_seconds=7200&card_height=300&theme=gruvbox">
-</p>
-
-<h4 align="center">Trophies</h4>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=whyhugo&theme=gruvbox&column=4&margin-w=15&margin-h=15">
-</p>
-
-<h4 align="center">Streak Stats</h4>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=whyhugo&theme=gruvbox" alt="whyhugo :: Streak Stats" /></p>
-
-<h4 align="center">Visitor Count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{whyhugo}/count.svg" alt="whyhugo :: Visitor's Count" /></p>
