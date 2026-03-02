@@ -21,9 +21,9 @@ Enjoy developing projects to solve problems!
 
 </div>
 
-- **💻 Languages** &nbsp; `Python` `C` `HTML/CSS` `JS/TS`
-- **🧠 AI / Data** &nbsp;&nbsp;&nbsp;&nbsp; `Machine Learning` `NLP` `PyTorch`
-- **⛑️ Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Node.js/Express` `Svelte` `MySQL` `Docker`
+- **💻 Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Python` `C` `HTML/CSS` `JS/TS` `GCP` `Docker`
+- **🧠 AI / Data** &nbsp;&nbsp;&nbsp;&nbsp; `Machine Learning` `NLP` `PyTorch` `LLMOps`
+- **⛑️ Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Node.js/Express` `Svelte` `MySQL`
 - **🪄 Frontend** &nbsp;&nbsp;&nbsp;&nbsp; `React` `Svelte` `Vite` `UI/UX`
 - **⚡ Hardware** &nbsp;&nbsp;&nbsp; `Arduino` `Raspberry Pi` `Micro:bit`
 - **🛠️ Maker** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `3D Modeling` `Laser Cutting`
