@@ -21,7 +21,7 @@ Enjoy developing projects to solve problems!
 
 </div>
 
-- **💻 Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Python` `C` `HTML/CSS` `JS/TS` `GCP` `Docker`
+- **💻 Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Python` `C` `HTML/CSS` `JS/TS` `GCP` `Docker` `cloudflare`
 - **🧠 AI / Data** &nbsp;&nbsp;&nbsp;&nbsp; `Machine Learning` `NLP` `PyTorch` `LLMOps`
 - **⛑️ Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Node.js/Express` `Svelte` `MySQL`
 - **🪄 Frontend** &nbsp;&nbsp;&nbsp;&nbsp; `React` `Svelte` `Vite` `UI/UX`
